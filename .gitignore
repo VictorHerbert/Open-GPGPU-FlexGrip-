@@ -1,0 +1,9 @@
+FlexGripPlus_4.4/lib_m/work/*
+FlexGripPlus_4.4/RTL/TB/configuration/pick_bench.vhd
+FlexGripPlus_4.4/RTL/TB/TP/TP_configuration.vhd
+FlexGripPlus_4.4/RTL/TB/TP/TP_instructions.vhd
+FlexGripPlus_4.4/lib_m/global_mem.mif
+FlexGripPlus_4.4/lib_m/gpgpu_rdata.log
+FlexGripPlus_4.4/lib_m/modelsim.log
+FlexGripPlus_4.4/lib_m/transcript
+FlexGripPlus_4.4/lib_m/vsim.wlf
